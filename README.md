@@ -6,7 +6,7 @@
 
 [Live demo](https://projetoreactgames.netlify.app/)
 
-![preview img](https://prnt.sc/1109ekw)
+![preview img](https://i.imgur.com/MFxp0yz.png)
 
 ## Tecnologias
 
