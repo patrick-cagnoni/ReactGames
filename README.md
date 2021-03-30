@@ -8,6 +8,13 @@
 
 ![preview img](https://i.imgur.com/MFxp0yz.png)
 
+### Funcionalidades
+
+* Inclusão de itens no minicart
+* Frete grátis a partir de um valor estabelecido
+* Adição de preço do frete para cada item
+* Ordenação de produtos por nome, preço ou avaliação(score)
+
 ## Tecnologias
 
 * React
